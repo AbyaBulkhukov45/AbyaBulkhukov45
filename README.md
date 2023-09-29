@@ -61,6 +61,15 @@
   <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif" width="550">
 </p>
 
+<!-- СЧËТЧИК ПОСЕТИТЕЛЕЙ МОЕГО GITHUB -->
+<p align="center"> 
+  Посетили мой профиль<br>
+  <img src="https://profile-counter.glitch.me/AbyaBulkhukov45/count.svg" />
+</p>
+
+<img src="stats.gif" width="90%"><br/><br/>
+
+
 <!-- СОЦ.СЕТИ -->
 <p>
 <div id="badges" align="center">
@@ -74,10 +83,3 @@
 </p>
 
 <!-- ТЕСТОВЫЙ БЛОК -->
-
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/AbyaBulkhukov45/count.svg" />
-</p>
-
-<img src="stats.gif" width="90%"><br/><br/>
