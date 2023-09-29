@@ -16,7 +16,7 @@
 
 
 <!-- НАВЫКИ -->
-### Навыки:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=15000&pause=500&width=435&lines=%D0%9D%D0%B0%D0%B2%D1%8B%D0%BA%D0%B8%3A)](https://git.io/typing-svg)
 
 <div align="center">
   <p align="center">
