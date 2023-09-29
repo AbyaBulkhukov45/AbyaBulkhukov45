@@ -37,14 +37,3 @@
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif" width="120"/>
 </div>
-<div id="badges" align="center">
-  <a href="https://t.me/kurmanka">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
-  </a>
-     <a href="mailto:rumiyakurmangazieva2001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EB1923?style=for-the-badge&logo=gmail&logoColor=white" alt="Vk"/>
-  </a>
-  <a href="https://vk.com/kurmanka1">
-    <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="Vk"/>
-  </a>
-</div>
