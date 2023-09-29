@@ -62,12 +62,12 @@
 </p>
 
 <!-- СЧËТЧИК ПОСЕТИТЕЛЕЙ МОЕГО GITHUB -->
-<div style="text-align: center;">
-  <img src="stats.gif" width="90%"><br/><br/>
+<p align="center"> 
   Посетили мой профиль<br>
   <img src="https://profile-counter.glitch.me/AbyaBulkhukov45/count.svg" />
-</div>
+</p>
 
+<img src="stats.gif" width="90%"><br/><br/>
 
 
 <!-- СОЦ.СЕТИ -->
