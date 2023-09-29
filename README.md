@@ -69,6 +69,7 @@
 </div>
 
 
+
 <!-- СОЦ.СЕТИ -->
 <p>
 <div id="badges" align="center">
