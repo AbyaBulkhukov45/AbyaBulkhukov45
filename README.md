@@ -40,5 +40,5 @@
 
 <!-- ГИФКА -->
 <p align="center">
-  <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif" width="600">
+  <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif" width="550">
 </p>
