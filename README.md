@@ -74,3 +74,10 @@
 </p>
 
 <!-- ТЕСТОВЫЙ БЛОК -->
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+</p>
+
+<img src="stats.gif" width="90%"><br/><br/>
