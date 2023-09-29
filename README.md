@@ -26,6 +26,12 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
   <a href="https://apple.com"
 
+
+<!-- ГИФКА -->
+<p align="center">
+  <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif" width="550">
+</p>
+
 <!-- СОЦ.СЕТИ -->
 <p>
 <div id="badges" align="center">
@@ -36,9 +42,4 @@
     <img src="https://img.shields.io/badge/Mail-EB1923?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/>
   </a>
 </div>
-</p>
-
-<!-- ГИФКА -->
-<p align="center">
-  <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif" width="550">
 </p>
