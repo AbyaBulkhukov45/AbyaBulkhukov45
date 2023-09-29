@@ -21,3 +21,18 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
   <a href="https://apple.com"
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjAyODE0NTI1M2RhNjcwMDIwNzU4ODM2MTMyZDU2MmEzYmM0MzdiNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/JIX9t2j0ZTN9S/giphy.gif" width="120"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://t.me/PAVEL_MINSKY">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:abya.bulhukov@yandex.ru">
+    <img src="https://img.shields.io/badge/Mail-EB1923?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/>
+  </a>
+</div>
+
+---
