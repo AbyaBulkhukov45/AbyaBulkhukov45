@@ -22,8 +22,10 @@
   <a href="https://apple.com"
 
 
----
+<p>
 
+
+</p>
 <p>
 <div id="badges" align="center">
   <a href="https://t.me/PAVEL_MINSKY">
