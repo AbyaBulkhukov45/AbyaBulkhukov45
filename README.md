@@ -67,7 +67,7 @@
   Посетили мой профиль<br>
 </p>
 
-<img src="stats.gif" width="300%"><br/><br/>
+<img src="stats.gif" width="90%"><br/><br/>
 
 
 <!-- СОЦ.СЕТИ -->
