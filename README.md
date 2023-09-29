@@ -3,11 +3,12 @@
 
 <!-- ДИНАМИЧЕСКИЙ ЭМОДЗИ "рука" -->
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=7000&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D0%BC%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%90%D0%B1%D1%8F+%D0%91%D1%83%D0%BB%D1%85%D1%83%D0%BA%D0%BE%D0%B2!+++)](https://git.io/typing-svg)
 
+<!-- Приветствие -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D0%BC%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%90%D0%B1%D1%8F+%D0%91%D1%83%D0%BB%D1%85%D1%83%D0%BA%D0%BE%D0%B2!)](https://git.io/typing-svg)
 
 <!-- БЛОК ОБО МНЕ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=8000&pause=7000&width=435&lines=%D0%9E%D0%B1%D0%BE+%D0%BC%D0%BD%D0%B5%3A++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+%D0%9E%D0%B1%D0%BE+%D0%BC%D0%BD%D0%B5%3A++)](https://git.io/typing-svg)
 В 2021 году меня вдохновил брат, веб-разработчик. Я начал изучать эту область, пройдя бесплатные курсы и присоединившись к местнему сообществу разработчиков. Там я нашел наставника из Terra Aries, который помог мне углубить знания. Затем я присоединился к курсам "Яндекс Практикум - Python Разработчик". Моя учеба продолжается, и я стремлюсь к дальнейшему развитию в веб-разработке.
 
 * 🌍  Сейчас я в Москве
