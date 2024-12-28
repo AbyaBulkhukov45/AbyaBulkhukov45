@@ -73,7 +73,7 @@
 <!-- СОЦ.СЕТИ -->
 <p>
 <div id="badges" align="center">
-  <a href="https://t.me/PAVEL_MINSKY">
+  <a href="https://t.me/Abya_Bulhukov">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="mailto:abya.bulhukov@yandex.ru">
